@@ -61,6 +61,8 @@ jobs:
     - name: Check with fontspector
       run: make test
       continue-on-error: true
+    - name: Generate specimen
+      run: make images
     - name: Generate proofs
       run: make proof
     - name: Set up test result site
