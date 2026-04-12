@@ -2,7 +2,6 @@
 venv
 venv-test
 build.stamp
-proof
 node_modules
 package-lock.json
 package.json
@@ -39,5 +38,3 @@ Thumbs.db
 *(Otomatik Kaydedildi).*
 *（自动存储）.*
 *（已自動儲存）.*
-
-documentation/proofs/spacing-proof.pdf
