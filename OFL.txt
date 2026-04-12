@@ -1,4 +1,4 @@
-Copyright 2026 The Yuyu-Font.Git Project Authors (https://github.com/JuliaGarciaLopez/Yuyu-Font.git)
+Copyright (c) 2024 The Yuyu Font Project Authors (github.com/JuliaGarciaLopez/Yuyu-Font)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

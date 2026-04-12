@@ -217,7 +217,7 @@ udieresis
 }
 );
 date = "2024-09-16 20:00:00 +0000";
-familyName = Yuyu;
+familyName = Yuyu Mid;
 fontMaster = (
 {
 axesValues = (
@@ -18886,14 +18886,14 @@ axesValues = (
 instanceInterpolations = {
 m01 = 1;
 };
-name = Mid;
+name = Regular;
 properties = (
 {
 key = styleNames;
 values = (
 {
 language = dflt;
-value = Mid;
+value = Regular;
 }
 );
 },
@@ -18903,7 +18903,7 @@ value = "Yuyu Mid";
 },
 {
 key = postscriptFontName;
-value = YuyuMid;
+value = YuyuMid-Regular;
 }
 );
 widthClass = 3;
@@ -18929,14 +18929,14 @@ type = descender;
 type = "italic angle";
 }
 );
-note = "This is the “medium” version of the font family Yuyu.";
+note = "This is the “mid height” version of the font project Yuyu.";
 properties = (
 {
 key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright (c) 2024, Yuyu font, JGLO Julia Garcia Lopez https://github.com/JuliaGarciaLopez/Yuyu-Font.git";
+value = "Copyright (c) 2024 The Yuyu Font Project Authors (github.com/JuliaGarciaLopez/Yuyu-Font)";
 },
 {
 language = ENG;
@@ -18949,7 +18949,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = Yuyu;
+value = Yuyu Mid;
 }
 );
 },
@@ -18959,7 +18959,7 @@ value = "Yuyu Mid";
 },
 {
 key = postscriptFontName;
-value = Yuyu;
+value = YuyuMid-Regular;
 }
 );
 settings = {

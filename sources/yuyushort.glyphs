@@ -217,7 +217,7 @@ udieresis
 }
 );
 date = "2024-09-16 20:00:00 +0000";
-familyName = Yuyu;
+familyName = Yuyu Short;
 fontMaster = (
 {
 axesValues = (
@@ -306,7 +306,7 @@ pos = -200;
 {
 }
 );
-name = Short;
+name = Regular;
 stemValues = (
 46,
 56,
@@ -17065,14 +17065,14 @@ axesValues = (
 instanceInterpolations = {
 m01 = 1;
 };
-name = Short;
+name = Regular;
 properties = (
 {
 key = styleNames;
 values = (
 {
 language = dflt;
-value = Short;
+value = Regular;
 }
 );
 },
@@ -17082,7 +17082,7 @@ value = "Yuyu Short";
 },
 {
 key = postscriptFontName;
-value = YuyuShort;
+value = YuyuShort-Regular;
 }
 );
 widthClass = 3;
@@ -17255,14 +17255,14 @@ type = descender;
 type = "italic angle";
 }
 );
-note = "This is the “shorter” version of the font family Yuyu.";
+note = "This is the “shorter height” version of the font project Yuyu.";
 properties = (
 {
 key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright (c) 2024, Yuyu font, JGLO Julia Garcia Lopez https://github.com/JuliaGarciaLopez/Yuyu-Font.git";
+value = "Copyright (c) 2024 The Yuyu Font Project Authors (github.com/JuliaGarciaLopez/Yuyu-Font)";
 },
 {
 language = ENG;
@@ -17275,7 +17275,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = Yuyu;
+value = Regular;
 }
 );
 },
@@ -17285,7 +17285,7 @@ value = "Yuyu Short";
 },
 {
 key = postscriptFontName;
-value = Yuyu;
+value = YuyuShort-Regular;
 }
 );
 settings = {
