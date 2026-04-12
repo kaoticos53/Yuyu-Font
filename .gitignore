@@ -10,8 +10,8 @@ master_ufo
 instance_ufos
 .ninja_log
 build.ninja
-.png
-.pdf
+*.png
+*.pdf
 
 # OS generated files #
 ######################
@@ -39,3 +39,5 @@ Thumbs.db
 *(Otomatik Kaydedildi).*
 *（自动存储）.*
 *（已自動儲存）.*
+
+documentation/proofs/spacing-proof.pdf
