@@ -217,7 +217,7 @@ udieresis
 }
 );
 date = "2024-09-16 20:00:00 +0000";
-familyName = Yuyu Short;
+familyName = YuyuShort;
 fontMaster = (
 {
 axesValues = (
@@ -17078,7 +17078,7 @@ value = Regular;
 },
 {
 key = postscriptFullName;
-value = "Yuyu Short";
+value = "YuyuShort";
 },
 {
 key = postscriptFontName;
@@ -17281,7 +17281,7 @@ value = Regular;
 },
 {
 key = postscriptFullName;
-value = "Yuyu Short";
+value = "YuyuShort";
 },
 {
 key = postscriptFontName;
@@ -17315,5 +17315,5 @@ m01 = {
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 01;
 }

@@ -217,7 +217,7 @@ udieresis
 }
 );
 date = "2024-09-16 20:00:00 +0000";
-familyName = Yuyu Mid;
+familyName = YuyuMid;
 fontMaster = (
 {
 axesValues = (
@@ -18899,7 +18899,7 @@ value = Regular;
 },
 {
 key = postscriptFullName;
-value = "Yuyu Mid";
+value = "YuyuMid";
 },
 {
 key = postscriptFontName;
@@ -18949,13 +18949,13 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = Yuyu Mid;
+value = YuyuMid;
 }
 );
 },
 {
 key = postscriptFullName;
-value = "Yuyu Mid";
+value = "YuyuMid";
 },
 {
 key = postscriptFontName;
@@ -18989,5 +18989,5 @@ m01 = {
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 01;
 }
