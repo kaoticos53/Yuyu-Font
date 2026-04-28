@@ -18345,17 +18345,6 @@ language = dflt;
 value = Regular;
 }
 );
-<<<<<<< HEAD
-},
-{
-key = postscriptFullName;
-value = "YuyuMid";
-},
-{
-key = postscriptFontName;
-value = "YuyuMid";
-=======
->>>>>>> b981aebe12990df9d0870d56e882baa920bb379c
 }
 );
 }
@@ -18387,37 +18376,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-<<<<<<< HEAD
-value = "Copyright 2024, Yuyu font, JGLO Julia Garcia Lopez (https://github.com/JuliaGarciaLopez/Yuyu-Font.git)";
-}
-);
-},
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "YuyuMid";
-}
-);
-},
-{
-key = postscriptFullName;
-value = "YuyuMid";
-},
-{
-key = postscriptFontName;
-value = "YuyuMid";
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-=======
 value = "Copyright 2026 The Yuyu Font Project Authors (https://github.com/JuliaGarciaLopez/Yuyu-Font)";
->>>>>>> b981aebe12990df9d0870d56e882baa920bb379c
 }
 );
 },
