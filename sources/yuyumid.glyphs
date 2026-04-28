@@ -18776,11 +18776,11 @@ value = mid;
 },
 {
 key = postscriptFullName;
-value = "Yuyu-mid";
+value = "YuyuMid";
 },
 {
 key = postscriptFontName;
-value = "Yuyu-mid";
+value = YuyuMid-Regular;
 }
 );
 widthClass = 3;
@@ -18822,44 +18822,17 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Yuyu";
+value = YuyuMid;
 }
 );
 },
 {
 key = postscriptFullName;
-value = "Yuyu-mid";
+value = "YuyuMid";
 },
 {
 key = postscriptFontName;
-value = "Yuyu-mid";
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-}
-);
-},
-{
-key = descriptions;
-values = (
-{
-language = dflt;
-value = "Yuyu Mid was developed with a clear focus on legibility and accessibility.";
-}
-);
-},
-{
-key = designers;
-values = (
-{
-language = dflt;
-value = "JGLO Julia Garcia Lopez";
-}
-);
+value = YuyuMid-Regular;
 }
 );
 settings = {
