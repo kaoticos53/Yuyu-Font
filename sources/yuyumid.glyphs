@@ -18777,7 +18777,6 @@ value = Mid;
 {
 key = postscriptFullName;
 value = "YuyuMid";
-value = "YuyuMid";
 },
 {
 key = postscriptFontName;
@@ -18823,13 +18822,12 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = YuyuMid;
+value = "YuyuMid";
 }
 );
 },
 {
 key = postscriptFullName;
-value = "YuyuMid";
 value = "YuyuMid";
 },
 {
