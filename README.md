@@ -47,6 +47,17 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 - First version of Yuyu Font
 
+**10 April 2026. Version 1.01**
+
+- Sepparated font names for Yuyu mid and Yuyu short
+
+**28 April 2026. Version 1.02**
+
+- Improved vertical metrics
+- Refined vertex superposition
+- Completed math and number symbols
+- Updated copyright and font data
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
