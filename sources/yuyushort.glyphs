@@ -221,7 +221,7 @@ value = 1;
 }
 );
 date = "2024-09-16 20:00:00 +0000";
-familyName = "Yuyu-Shost";
+familyName = "YuyuShort";
 fontMaster = (
 {
 axesValues = (
@@ -17102,17 +17102,17 @@ key = styleNames;
 values = (
 {
 language = dflt;
-value = short;
+value = Short;
 }
 );
 },
 {
 key = postscriptFullName;
-value = "Yuyu-short";
+value = "YuyuShort";
 },
 {
 key = postscriptFontName;
-value = "Yuyu-short";
+value = "YuyuShort";
 }
 );
 widthClass = 3;
@@ -17411,21 +17411,17 @@ key = familyNames;
 values = (
 {
 language = dflt;
-<<<<<<< HEAD
 value = "Yuyu";
-=======
-value = "Yuyu short";
->>>>>>> e7d832bf97b9f8ec1bb64b0d87cdf3020726ea5d
 }
 );
 },
 {
 key = postscriptFullName;
-value = "Yuyu-short";
+value = "YuyuShort";
 },
 {
 key = postscriptFontName;
-value = "Yuyu-short";
+value = "YuyuShort";
 },
 {
 key = licenses;

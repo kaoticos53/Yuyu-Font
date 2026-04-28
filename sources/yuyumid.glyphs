@@ -221,7 +221,7 @@ value = 1;
 }
 );
 date = "2024-09-16 20:00:00 +0000";
-familyName = "Yuyu-Mid";
+familyName = "YuyuMid";
 fontMaster = (
 {
 axesValues = (
@@ -18770,7 +18770,7 @@ key = styleNames;
 values = (
 {
 language = dflt;
-value = mid;
+value = Mid;
 }
 );
 },
@@ -18780,7 +18780,7 @@ value = "YuyuMid";
 },
 {
 key = postscriptFontName;
-value = YuyuMid-Regular;
+value = "YuyuMid";
 }
 );
 widthClass = 3;
@@ -18822,7 +18822,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = YuyuMid;
+value = "Yuyu";
 }
 );
 },
@@ -18832,7 +18832,34 @@ value = "YuyuMid";
 },
 {
 key = postscriptFontName;
-value = YuyuMid-Regular;
+value = "YuyuMid";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "Yuyu Mid was developed with a clear focus on legibility and accessibility.";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "JGLO Julia Garcia Lopez";
+}
+);
 }
 );
 settings = {
