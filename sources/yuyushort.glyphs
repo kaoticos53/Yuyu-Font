@@ -1,6 +1,9 @@
 {
 .appVersion = "3135";
 .formatVersion = 3;
+DisplayStrings = (
+"'‘’‚„“”\""
+);
 axes = (
 {
 name = Weight;
@@ -221,7 +224,7 @@ value = 1;
 }
 );
 date = "2024-09-16 20:00:00 +0000";
-familyName = "YuyuShort";
+familyName = "Yuyu Short";
 fontMaster = (
 {
 axesValues = (
@@ -242,11 +245,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 930;
+value = 945;
 },
 {
 name = winDescent;
-value = 200;
+value = 218;
 },
 {
 name = hheaAscender;
@@ -255,6 +258,10 @@ value = 930;
 {
 name = hheaDescender;
 value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
@@ -288,10 +295,6 @@ pos = "-181";
 size = "-7";
 }
 );
-},
-{
-name = hheaLineGap;
-value = 0;
 }
 );
 id = m01;
@@ -326,7 +329,7 @@ stemValues = (
 glyphs = (
 {
 glyphname = .notdef;
-lastChange = "2026-04-28 12:49:24 +0000";
+lastChange = "2026-05-02 10:41:27 +0000";
 layers = (
 {
 layerId = m01;
@@ -334,23 +337,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(501,0,l),
-(501,692,l),
-(106,692,l),
-(106,0,l)
+(395,0,l),
+(395,692,l),
+(0,692,l),
+(0,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(171,632,l),
-(441,632,l),
-(441,64,l),
-(171,64,l)
+(65,632,l),
+(335,632,l),
+(335,64,l),
+(65,64,l)
 );
 }
 );
-width = 600;
+width = 395;
 }
 );
 },
@@ -905,7 +908,7 @@ unicode = 38;
 },
 {
 glyphname = quotesingle;
-lastChange = "2026-04-28 12:49:24 +0000";
+lastChange = "2026-05-02 10:45:56 +0000";
 layers = (
 {
 hints = (
@@ -926,22 +929,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(163,568,o),
-(160,616,o),
-(160,655,cs),
-(160,687,o),
-(139,717,o),
-(118,710,cs),
-(94,702,o),
-(80,686,o),
-(94,638,cs),
-(104,605,o),
-(108,542,o),
-(110,539,c)
+(125,568,o),
+(122,616,o),
+(122,655,cs),
+(122,687,o),
+(101,717,o),
+(80,710,cs),
+(56,702,o),
+(42,686,o),
+(56,638,cs),
+(66,605,o),
+(70,542,o),
+(72,539,c)
 );
 }
 );
-width = 221;
+width = 172;
 }
 );
 note = quotesingle;
@@ -7767,7 +7770,7 @@ unicode = 126;
 },
 {
 glyphname = quoteleft;
-lastChange = "2026-04-28 12:49:25 +0000";
+lastChange = "2026-05-02 10:45:49 +0000";
 layers = (
 {
 hints = (
@@ -7788,33 +7791,33 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(289,636,o),
-(226,650,o),
-(224,660,cs),
-(220,673,o),
-(238,703,o),
-(244,738,c),
-(104,737,o),
-(178,517,o),
-(252,588,c)
+(269,636,o),
+(206,650,o),
+(204,660,cs),
+(200,673,o),
+(218,703,o),
+(224,738,c),
+(84,737,o),
+(158,517,o),
+(232,588,c)
 );
 },
 {
 closed = 1;
 nodes = (
-(167,622,o),
-(105,648,o),
-(104,658,cs),
-(101,672,o),
-(133,699,o),
-(143,733,c),
-(4,749,o),
-(41,522,o),
-(123,583,c)
+(147,622,o),
+(85,648,o),
+(84,658,cs),
+(81,672,o),
+(113,699,o),
+(123,733,c),
+(-16,749,o),
+(21,522,o),
+(103,583,c)
 );
 }
 );
-width = 344;
+width = 274;
 }
 );
 note = quoteleft;
@@ -7822,7 +7825,7 @@ unicode = 8216;
 },
 {
 glyphname = quoteright;
-lastChange = "2026-04-28 12:49:25 +0000";
+lastChange = "2026-05-02 10:33:16 +0000";
 layers = (
 {
 hints = (
@@ -15344,73 +15347,76 @@ unicode = 8212;
 },
 {
 glyphname = quotesinglbase;
-lastChange = "2026-04-22 13:13:52 +0000";
+lastChange = "2026-05-02 10:45:42 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+pos = (-10,0);
 ref = comma;
 }
 );
-width = 253;
+width = 193;
 }
 );
 unicode = 8218;
 },
 {
 glyphname = quotedblbase;
-lastChange = "2026-04-22 13:13:52 +0000";
+lastChange = "2026-05-02 10:45:28 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+pos = (-30,-18);
 ref = comma;
 },
 {
+pos = (87,-20);
 ref = comma;
 }
 );
-width = 253;
+width = 270;
 }
 );
 unicode = 8222;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2026-04-22 13:13:52 +0000";
+lastChange = "2026-05-02 10:45:21 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = quoteleft;
-},
-{
+pos = (-20,0);
 ref = quoteleft;
 }
 );
-width = 344;
+width = 274;
 }
 );
 unicode = 8220;
 },
 {
 glyphname = quotedblright;
-lastChange = "2026-04-22 13:13:52 +0000";
+lastChange = "2026-05-02 10:45:08 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+pos = (-20,2);
 ref = quoteright;
 },
 {
+pos = (116,0);
 ref = quoteright;
 }
 );
-width = 193;
+width = 289;
 }
 );
 unicode = 8221;
@@ -15579,7 +15585,7 @@ unicode = 8250;
 },
 {
 glyphname = quotedbl;
-lastChange = "2026-04-28 12:49:25 +0000";
+lastChange = "2026-05-02 10:45:15 +0000";
 layers = (
 {
 hints = (
@@ -15595,48 +15601,48 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(254,595,o),
-(237,639,o),
-(244,649,cs),
-(249,657,o),
-(288,642,o),
-(288,704,c),
-(274,724,o),
-(259,732,o),
-(244,732,cs),
-(215,732,o),
-(191,696,o),
-(191,655,cs),
-(191,600,o),
-(254,531,o),
-(254,571,cs)
+(234,595,o),
+(217,639,o),
+(224,649,cs),
+(229,657,o),
+(268,642,o),
+(268,704,c),
+(254,724,o),
+(239,732,o),
+(224,732,cs),
+(195,732,o),
+(171,696,o),
+(171,655,cs),
+(171,600,o),
+(234,531,o),
+(234,571,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(135,575,o),
-(99,631,o),
-(105,644,cs),
-(108,652,o),
-(140,645,o),
-(140,692,cs),
-(140,696,o),
-(140,701,o),
-(139,706,c),
-(124,721,o),
-(110,728,o),
-(97,728,cs),
-(69,728,o),
-(50,696,o),
-(50,660,cs),
-(50,621,o),
-(72,576,o),
-(128,557,c)
+(115,575,o),
+(79,631,o),
+(85,644,cs),
+(88,652,o),
+(120,645,o),
+(120,692,cs),
+(120,696,o),
+(120,701,o),
+(119,706,c),
+(104,721,o),
+(90,728,o),
+(77,728,cs),
+(49,728,o),
+(30,696,o),
+(30,660,cs),
+(30,621,o),
+(52,576,o),
+(108,557,c)
 );
 }
 );
-width = 318;
+width = 298;
 }
 );
 note = uni0022;
@@ -17102,20 +17108,11 @@ key = styleNames;
 values = (
 {
 language = dflt;
-value = Short;
+value = Regular;
 }
 );
-},
-{
-key = postscriptFullName;
-value = "YuyuShort";
-},
-{
-key = postscriptFontName;
-value = "YuyuShort";
 }
 );
-widthClass = 3;
 }
 );
 kerningLTR = {
@@ -17402,7 +17399,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024, Yuyu font, JGLO Julia Garcia Lopez (https://github.com/JuliaGarciaLopez/Yuyu-Font.git)";
+value = "Copyright 2026 The Yuyu Font Project Authors (https://github.com/JuliaGarciaLopez/Yuyu-Font)";
 }
 );
 },
@@ -17411,17 +17408,9 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Yuyu";
+value = "Yuyu Short";
 }
 );
-},
-{
-key = postscriptFullName;
-value = "Yuyushort";
-},
-{
-key = postscriptFontName;
-value = "YuyuShort";
 },
 {
 key = licenses;
@@ -17478,5 +17467,5 @@ m01 = {
 };
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
